@@ -1,0 +1,26 @@
+{
+  "name": "ronin-js-fp",
+  "version": "1.0.0",
+  "description": "Repositório para estudos de arquitetura e design de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romuloguimaraes/ronin-js-fp.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "functional",
+    "programming",
+    "fp"
+  ],
+  "author": "Rômulo Guimarães",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romuloguimaraes/ronin-js-fp/issues"
+  },
+  "homepage": "https://github.com/romuloguimaraes/ronin-js-fp#readme"
+}
