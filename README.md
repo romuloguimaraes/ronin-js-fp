@@ -1,0 +1,1 @@
+Repositório para estudos de arquitetura e design de software 
