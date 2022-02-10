@@ -1,7 +1,7 @@
 {
   "name": "ronin-js-fp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repositório para estudos de arquitetura e design de software",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,8 +29,13 @@
   },
   "homepage": "https://github.com/romuloguimaraes/ronin-js-fp#readme",
   "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11",
+    "@types/fork-ts-checker-webpack-plugin": "^0.4.5",
     "@webpack-cli/generators": "^2.4.2",
+    "babel-loader": "^8.2.3",
     "css-loader": "^6.6.0",
+    "fork-ts-checker-webpack-plugin": "^7.2.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.5.3",
     "prettier": "^2.5.1",
